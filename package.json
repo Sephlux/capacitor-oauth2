@@ -1,6 +1,6 @@
 {
     "name": "@byteowls/capacitor-oauth2",
-    "version": "3.0.1",
+    "version": "4.0.1",
     "description": "Capacitor OAuth 2 client plugin",
     "author": "Michael Oberwasserlechner",
     "homepage": "https://github.com/moberwasserlechner/capacitor-oauth2",
@@ -50,7 +50,7 @@
         "access": "public"
     },
     "peerDependencies": {
-        "@capacitor/core": "^3.0.0"
+        "@capacitor/core": "^4.0.1"
     },
     "devDependencies": {
         "@capacitor/android": "^4.0.1",
